@@ -1,0 +1,41 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    background-image: url('background.png');
+}
+section{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+header{
+    text-align: center;
+    width:100%;
+}
+
+.container{
+    align-items: center;
+}
+#aboutme{
+    padding-right: 10%;
+    text-align: justify;
+  }
+
+#myimg, #aboutme{
+    display: block;
+    margin: auto;
+}
+#aboutme{
+    padding:20px;
+}
+p{
+    font-size:130%;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+  }
+#myimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+   
+}
