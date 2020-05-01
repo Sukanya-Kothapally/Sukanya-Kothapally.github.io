@@ -1,5 +1,5 @@
 body{
-    background-image: url('Images/background.png');
+    background-image: url('background.png');
     font-family: 'Lucida Sans', 'Lucida Sans Regular';
 
 }
@@ -14,3 +14,15 @@ header{
     background-color: black;
     color: white;
 }
+
+
+.homebtn {
+    background-color:rgb(236, 102, 102);
+    color: white;
+    padding: 12px 16px;
+    font-size: small;
+    cursor: pointer;
+    position:absolute;
+    top:0;
+    left:0;
+  }
