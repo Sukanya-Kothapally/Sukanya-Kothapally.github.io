@@ -16,7 +16,7 @@
   }
 
 body{
-    background-image: url('background.png');
+    background-image: url('Images/background.png');
 
 }
 #main{
@@ -74,4 +74,3 @@ a.fill-div{
     height: 100%;
     width: 100%;
 }
-

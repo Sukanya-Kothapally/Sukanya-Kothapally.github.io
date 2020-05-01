@@ -1,0 +1,16 @@
+body{
+    background-image: url('Images/background.png');
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+
+}
+header{
+    text-align: center;
+}
+
+.card-deck{
+    padding-top:30px;
+}
+.card-body{
+    background-color: black;
+    color: white;
+}
